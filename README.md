@@ -1,8 +1,5 @@
-# ADS Project 5: Dog Breed Identifier APP
+# Project : Dog Breed Identifier APP
 
-Term: Fall 2017
-
-+ Team #8
 + Projec title: Dog Breed Identifier APP
 
 <img src="figs/init_photo.jpg" width="200"><img src="figs/wiki_photo.jpg" width="200"><img src="figs/photo_gallery.jpg" width="200">
@@ -21,15 +18,6 @@ Term: Fall 2017
 	+  Evaluate the performance of the fine-tuned model and get 90.4% of accuracy in validation set
 
 	In addition, we integrate CNN trained on tensorflow into iOS App in order to identify the dog breed effectively and conventiently, the App is called *Dog Breed!*
-
-
-	
-**Contribution statement**:
-+ Christina Huang(Presenter): iOS App establishment - UI design, "Snap It", "Wiki It" and "Gallgary" view controllor
-+ Jing Zhao: vanilla CNN model establishment
-+ Siyi Wang: data collection and clean, web scraper for descriptions
-+ Chaoyue Tan: updating and finishing pre-trained model (interception v3)
-+ Yufei Zhao: assistant for iOS App - "Wiki It" view controllor
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
